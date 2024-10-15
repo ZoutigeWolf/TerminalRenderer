@@ -1,7 +1,6 @@
 #include "opencv2/opencv.hpp"
 
 #include "AsciiRenderer.h"
-
 #include "utils.h"
 
 AsciiRenderer::AsciiRenderer(const int port, const int pixel_ratio) {
